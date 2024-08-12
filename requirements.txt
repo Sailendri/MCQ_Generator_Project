@@ -1,6 +1,9 @@
-OpenAI 
-Huggingface
-Langchain
-Steamlit
+openAI 
+huggingface
+langchain
 python-dotenv
 pyPDF2
+streamlit
+
+
+ -e.
