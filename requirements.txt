@@ -1,0 +1,6 @@
+OpenAI 
+Huggingface
+Langchain
+Steamlit
+python-dotenv
+pyPDF2
